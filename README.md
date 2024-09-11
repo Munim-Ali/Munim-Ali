@@ -7,9 +7,9 @@ I'm a passionate Frontend Developer with a strong focus on building modern, scal
 - JavaScript & TypeScript: Strong proficiency in modern JavaScript (ES6+) and TypeScript for type-safe, scalable codebases.
 
 🔧 Tech Stack
-Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
-Frameworks/Libraries: React, Next.js, Redux, Tailwind CSS, ShadcnUI, Bootstrap
-Tooling: Webpack, Babel, Vite, ESLint, Prettier
-Version Control: Git, GitHub, GitLab
-APIs: REST, GraphQL
-CI/CD: GitHub Actions, Vercel
+- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
+- Frameworks/Libraries: React, Next.js, Redux, Tailwind CSS, ShadcnUI, Bootstrap
+- Tooling: Webpack, Babel, Vite, ESLint, Prettier
+- Version Control: Git, GitHub, GitLab
+- APIs: REST, GraphQL
+- CI/CD: GitHub Actions, Vercel
