@@ -2,21 +2,21 @@
 
 💻 What I Do
 
-- 💎 Full-Stack Development — React/Next.js frontends backed by Node.js/NestJS/Express APIs, connected to PostgreSQL, MySQL, or MongoDB
-- 💎 Frontend Architecture — Scalable, reusable component systems, state management (Redux Toolkit), and performance-optimized SPAs
-- 💎 Backend & APIs — RESTful API design, data modeling, JWT authentication, and secure integrations
-- 💎 WordPress — 4+ years building portfolio sites, WooCommerce stores, and custom themes with payment integrations
-- 💎 Web3 — Wallet integrations (Phantom, Solana Wallet Adapter), staking platforms, and blockchain dashboards
+- Full-Stack Development — React/Next.js frontends backed by Node.js/NestJS/Express APIs, connected to PostgreSQL, MySQL, or MongoDB
+- Frontend Architecture — Scalable, reusable component systems, state management (Redux Toolkit), and performance-optimized SPAs
+- Backend & APIs — RESTful API design, data modeling, JWT authentication, and secure integrations
+- WordPress — 4+ years building portfolio sites, WooCommerce stores, and custom themes with payment integrations
+- Web3 — Wallet integrations (Phantom, Solana Wallet Adapter), staking platforms, and blockchain dashboards
 
 🔧 Tech Stack
 
-🔷 Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
-🔷 Frontend: React, Next.js, Redux Toolkit, Tailwind CSS, ShadCN UI, Material UI, Bootstrap
-🔷 Backend: Node.js, Express.js, NestJS, REST APIs
-🔷 Databases: PostgreSQL, MySQL, MongoDB
-🔷 Tooling: Webpack, Vite, ESLint, Prettier, Jest
-🔷 Version Control & CI/CD: Git, GitHub, GitHub Actions, Vercel
-🔷 Other: WordPress, WooCommerce, Elementor, Solana Web3.js
+- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
+- Frontend: React, Next.js, Redux Toolkit, Tailwind CSS, ShadCN UI, Material UI, Bootstrap
+- Backend: Node.js, Express.js, NestJS, REST APIs
+- Databases: PostgreSQL, MySQL, MongoDB
+- Tooling: Webpack, Vite, ESLint, Prettier, Jest
+- Version Control & CI/CD: Git, GitHub, GitHub Actions, Vercel
+- Other: WordPress, WooCommerce, Elementor, Solana Web3.js
 
 🚀 Recent Highlights
 
