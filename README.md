@@ -2,11 +2,11 @@
 
 💻 What I Do
 
-💎 Full-Stack Development — React/Next.js frontends backed by Node.js/NestJS/Express APIs, connected to PostgreSQL, MySQL, or MongoDB
-💎 Frontend Architecture — Scalable, reusable component systems, state management (Redux Toolkit), and performance-optimized SPAs
-💎 Backend & APIs — RESTful API design, data modeling, JWT authentication, and secure integrations
-💎 WordPress — 4+ years building portfolio sites, WooCommerce stores, and custom themes with payment integrations
-💎 Web3 — Wallet integrations (Phantom, Solana Wallet Adapter), staking platforms, and blockchain dashboards
+- 💎 Full-Stack Development — React/Next.js frontends backed by Node.js/NestJS/Express APIs, connected to PostgreSQL, MySQL, or MongoDB
+- 💎 Frontend Architecture — Scalable, reusable component systems, state management (Redux Toolkit), and performance-optimized SPAs
+- 💎 Backend & APIs — RESTful API design, data modeling, JWT authentication, and secure integrations
+- 💎 WordPress — 4+ years building portfolio sites, WooCommerce stores, and custom themes with payment integrations
+- 💎 Web3 — Wallet integrations (Phantom, Solana Wallet Adapter), staking platforms, and blockchain dashboards
 
 🔧 Tech Stack
 
